@@ -1,4 +1,4 @@
 # computing-work
 Hello
-![Banana](/images/logo.png)
+![gettyimages-459761948](/images/logo.png)
 Format: ![Alt Text](url)
