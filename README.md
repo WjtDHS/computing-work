@@ -1,4 +1,4 @@
 # computing-work
 Hello
-![GitHub Logo](/images/logo.png)
+![Banana](/images/logo.png)
 Format: ![Alt Text](url)
